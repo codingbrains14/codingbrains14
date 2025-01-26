@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm B S N V SATYANARAYANA</h1>
-<h3 align="center">A passionate FULL STACK PYTHON DEVELOPER from India</h3>
+<h3 align="center">A passionate FULL STACK UI,PYTHON,JAVA DEVELOPER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbrains14&label=Profile%20views&color=0e75b6&style=flat" alt="codingbrains14" /> </p>
 
